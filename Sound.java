@@ -1,3 +1,0 @@
-interface Sound {
-    void makesound();
-}
