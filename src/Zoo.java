@@ -33,7 +33,6 @@ class Zoo {
                 all_animals.remove(id);
             }
         }
-        //smth about supervisor
     }
 
     public void add_Supervisors(Supervisor s) {
@@ -105,5 +104,3 @@ class Zoo {
     }
 
 }
-
-
