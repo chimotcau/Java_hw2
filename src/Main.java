@@ -29,24 +29,17 @@ public class Main{
         zoo.assign_Supervisors(4,3);
         zoo.assign_Supervisors(5,3);
 
-        //zoo.search_Animals(2);
+        zoo.search_Animals(2);
 
-        //zoo.get_Animals_by_SupervisorID(1);
+        zoo.get_Animals_by_SupervisorID(1);
 
-        //zoo.get_Animals_by_SupervisorName("Vo");
+        zoo.get_Animals_by_SupervisorName("Vo");
 
-        //zoo.get_Animals_higher(20);
+        zoo.get_Animals_higher(20);
 
-        //zoo.get_Animals_sound();
+        zoo.get_Animals_sound();
 
-        //zoo.get_Animals_same_type("Cat");
-
-
-
-
-
-
-
+        zoo.get_Animals_same_type("Cat");
 
     }
 }
